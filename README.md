@@ -2,7 +2,7 @@
 - 👤 I’m a 19 years old student from Argentina
 - 👀 I’m interested in Web design & development
 - 🌱 I’m currently learning JavaScript, NodeJS
-- 💞️ I’m looking to collaborate on big proyects!
+- 💞️ I’m looking to collaborate on big or small proyects!
 - 📫 Contact me on Instagram: @galfre.v
 
 <!---
