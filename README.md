@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Valentín Galfré</h1>
 <h3 align="center">A passionate frontend developer student from Argentina!</h3>
 
-- 🔭 I’m currently working on **learning fullstack development**
+- 🔭 I’m currently working on **My personal portfolio and getting my first job as a developer**
 
-- 🌱 I’m currently learning **React JS, Fullstack develompent ,French**
+- 🌱 I’m currently learning **React JS, Next.JS, Tailwind, Fullstack develompent, French** and much more!
 
 - 👯 I’m looking to collaborate on **small or big projects!**
 
